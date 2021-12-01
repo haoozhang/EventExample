@@ -1,0 +1,14 @@
+C:\Users\haozhan\Documents\VSProjects\EventExample\EventExample\bin\Debug\netcoreapp3.1\EventExample.exe
+C:\Users\haozhan\Documents\VSProjects\EventExample\EventExample\bin\Debug\netcoreapp3.1\EventExample.deps.json
+C:\Users\haozhan\Documents\VSProjects\EventExample\EventExample\bin\Debug\netcoreapp3.1\EventExample.runtimeconfig.json
+C:\Users\haozhan\Documents\VSProjects\EventExample\EventExample\bin\Debug\netcoreapp3.1\EventExample.runtimeconfig.dev.json
+C:\Users\haozhan\Documents\VSProjects\EventExample\EventExample\bin\Debug\netcoreapp3.1\EventExample.dll
+C:\Users\haozhan\Documents\VSProjects\EventExample\EventExample\bin\Debug\netcoreapp3.1\EventExample.pdb
+C:\Users\haozhan\Documents\VSProjects\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.csproj.AssemblyReference.cache
+C:\Users\haozhan\Documents\VSProjects\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haozhan\Documents\VSProjects\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.AssemblyInfoInputs.cache
+C:\Users\haozhan\Documents\VSProjects\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.AssemblyInfo.cs
+C:\Users\haozhan\Documents\VSProjects\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.csproj.CoreCompileInputs.cache
+C:\Users\haozhan\Documents\VSProjects\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.dll
+C:\Users\haozhan\Documents\VSProjects\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.pdb
+C:\Users\haozhan\Documents\VSProjects\EventExample\EventExample\obj\Debug\netcoreapp3.1\EventExample.genruntimeconfig.cache
